@@ -1,0 +1,14 @@
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\WordHyperLinkInspector.dll
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\WordHyperLinkInspector.pdb
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\WordHyperLinkInspector.dll.CodeAnalysisLog.xml
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\WordHyperLinkInspector.dll.lastcodeanalysissucceeded
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\WordHyperLinkInspector.dll.manifest
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\WordHyperLinkInspector.vsto
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\obj\Debug\WordHyperLinkInspector.csprojResolveAssemblyReference.cache
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\obj\Debug\WordHyperLinkInspector.Properties.Resources.resources
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\obj\Debug\WordHyperLinkInspector.Ribbon.resources
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\obj\Debug\WordHyperLinkInspector.csproj.GenerateResource.Cache
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\obj\Debug\WordHyperLinkInspector.dll
+C:\Users\Carl\Documents\GitHub\WordHyperLinkInspector\WordHyperLinkInspector\obj\Debug\WordHyperLinkInspector.pdb
