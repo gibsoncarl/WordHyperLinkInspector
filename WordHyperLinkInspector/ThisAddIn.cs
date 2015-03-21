@@ -70,6 +70,9 @@ namespace WordHyperLinkInspector
         }
     }
 
+    /// <summary>
+    /// Dictionary of links and error messages
+    /// </summary>
     internal class FailedLinks
     {
         private readonly IDictionary<Word.Hyperlink, string> _links;
